@@ -1,6 +1,6 @@
 '''
     MLP using keras model as per the assignment in BT3041
-    Author: Bharat K. Patil
+  
 '''
 
 import tensorflow as tf
