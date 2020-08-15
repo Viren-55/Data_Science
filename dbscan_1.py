@@ -1,6 +1,6 @@
 '''
     DBscan algorithm as per the assginment in BT3041
-    Author: Bharat K. Patil
+
 '''
 
 import pickle, random
